@@ -1,0 +1,13 @@
+body{
+    background-image:url(https://th.bing.com/th/id/OIP.N-AZ4E15oo8mUn3kML8MjgHaFj?rs=1&pid=ImgDetMain);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.p1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}

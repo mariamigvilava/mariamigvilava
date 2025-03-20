@@ -1,0 +1,60 @@
+.p1{
+    position: relative;
+    left: 150px;
+    right: 200px;
+    top:50px ;
+    bottom: ;
+    width:100px ;
+    height:100px ;
+    background-color: blue;
+}
+
+
+.p2{
+    position: relative;
+    left: 200px;
+    right: 250;
+    top: 100px;
+    bottom: ;
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+}
+
+
+.p3{
+    position: relative;
+    left: 250px;
+    right: 300;
+    top: 150px;
+    bottom: ;
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+}
+
+
+.p4{
+    position: relative;
+    left: 300px;
+    right: 350;
+    top: 200px;
+    bottom: ;
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+}
+
+
+
+.p5{
+    position: relative;
+    left: 350px;
+    right: 400;
+    top: 250px;
+    bottom: ;
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+}
+

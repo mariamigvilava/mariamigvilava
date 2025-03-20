@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: blueviolet;
+}
+
+
+.div1{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.div2{
+    width: 50%;
+    height: 50%;
+    background-color: blue;
+}

@@ -1,0 +1,12 @@
+div{
+    background-color: brown;
+    width: 500;
+    height: 300px;
+}
+
+
+.child-div{
+    width: 50%;
+    height: 100%;
+    background-color: black;
+}

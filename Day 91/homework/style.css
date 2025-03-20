@@ -1,0 +1,30 @@
+.pp1{
+    width: 10px;
+    height: 10px;
+    border: 2px dotted yellowgreen;
+    
+}
+
+.pp2{
+    width: 100px;
+    height: 100;
+    border: 6px dotted plum;
+}
+
+.pp3{
+    width: 100px;
+    height:100px ;
+    border: 7px dotted powderblue;
+}
+
+.pp4{
+    width: 100px;
+    height: 100px;
+    border: 8px double orangered
+}
+
+.pp5{
+    width: 100px;
+    height: 100px;
+    border: 9px double red;
+}

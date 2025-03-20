@@ -1,0 +1,58 @@
+/* .p1{
+    text-decoration: overline red;
+
+}
+
+.p2{
+    text-decoration: line-through green;
+}
+
+.p3{
+    text-decoration: underline blue;
+}
+
+.p4{
+    text-decoration: line-through yellow;
+}
+
+.p5{
+    text-decoration: underline orange;
+} */
+
+
+.p1{
+    color: blue;
+    text-decoration: overline red;
+}
+
+.p2{
+    color: brown;
+    text-decoration: line-through orange;
+    
+}
+
+.p3{
+    color:chocolate;
+    text-decoration:underline orchid;
+    
+}
+
+.p4{
+    color: indianred;
+    text-decoration:overline line-through crimson;
+}
+
+.p5{
+    color: hotpink;
+    text-decoration:line-through underline fuchsia;
+}
+
+.p6{
+    color: maroon;
+    text-decoration: overline underline orangered;
+}
+
+.p7{
+    color: blue;
+    text-decoration: overline line-through underline overline palevioletred;
+}

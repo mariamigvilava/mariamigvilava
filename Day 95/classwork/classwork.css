@@ -1,0 +1,23 @@
+heder{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+ul{
+    display: flex;
+   list-style-type: none;
+   gap: 30px;
+}
+
+ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    color:#fff;
+}
+
+
+.px{
+    font-size: 30px;
+}

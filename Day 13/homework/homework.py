@@ -1,0 +1,8 @@
+print("true and folse")
+print("folse and true")
+print("folse and folse")
+print("true and true")
+print("true or folse")
+print("folse or true")
+print("folse or folse")
+print|("true or true")

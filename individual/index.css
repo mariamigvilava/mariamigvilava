@@ -1,0 +1,9 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-size: 50px;
+    background-image: url("https://cdn.mos.cms.futurecdn.net/nFyn4dtH5kRPgwdWzh6QJn.jpg");
+}
+

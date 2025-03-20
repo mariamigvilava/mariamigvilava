@@ -1,0 +1,1 @@
+foods_foods=["xinkali","burgeri","fry","mwvadi","katami","torti"]

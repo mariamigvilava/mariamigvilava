@@ -1,0 +1,55 @@
+* {
+    margin: 5px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+}
+
+.div1 {
+    position: absolute;
+    left: 6px;
+    top: 20px;
+}
+
+.div2 {
+    position: absolute;
+    right: 6px;
+    top: 20px;
+}
+
+.div3 {
+    position: absolute;
+    left: 6px;
+    bottom: 20px;
+}
+
+.div4 {
+    position: absolute;
+    right: 6px;
+    bottom: 20px;
+}
+
+.div5 {
+    position: absolute;
+    right: 6px;
+    bottom: 70px;
+}
+
+.div6 {
+    position: absolute;
+    right: 550px;
+    top: 260px;
+}
+
+
+
+
+
+iframe {
+    width: 350px;
+    height: 250px;
+    border-radius: 30px;
+}

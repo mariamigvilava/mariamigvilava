@@ -1,0 +1,29 @@
+
+/* @import url('https://fonts.googleapis.com/css2?family=Creepster&family=Press+Start+2P&display=swap');
+.p1{
+    font-family: "Press Start 2P", system-ui;
+} */
+
+
+/* @import url('https://fonts.googleapis.com/css2?family=Creepster&family=Mrs+Saint+Delafield&family=Press+Start+2P&display=swap');
+
+.p1{
+    font-family: "Mrs Saint Delafield", cursive;
+} */
+
+
+/* 
+  @import url('https://fonts.googleapis.com/css2?family=Creepster&family=Mrs+Saint+Delafield&family=Parkinsans:wght@300..800&family=Press+Start+2P&display=swap');
+.p3{
+    font-family: "Parkinsans", sans-serif;
+}   */
+
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Mrs+Saint+Delafield&family=Parkinsans:wght@300..800&family=Press+Start+2P&display=swap');
+.p1{
+    font-family: "Edu AU VIC WA NT Arrows", cursive;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Mrs+Saint+Delafield&family=Parkinsans:wght@300..800&family=Press+Start+2P&display=swap');
+.p2{
+    font-family: "Edu AU VIC WA NT Arrows", cursive;
+}
