@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Mrs+Saint+Delafield&family=Outfit:wght@100..900&family=Parkinsans:wght@300..800&family=Press+Start+2P&display=swap');
+body{
+background-color: hsl(217, 54%, 11%);
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+
+.div1{
+    background-color: hsl(216, 50%, 16%);
+     width: 290px; 
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 10px 10px 60px;
+    
+}
+
+.img1{
+    width: 99%;
+    border-radius: 5px;
+
+}
+
+*{
+    
+font-family:outfit ;
+
+
+}
+
+.h1{
+    color: white;
+    font-size: 23px;
+    font-weight: 500;
+}
+
+.p1{
+    color: hsl(215, 51%, 70%);
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 1.5;
+
+}
+
+.div3{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color:hsl(178, 100%, 50%) ;
+}
+
+.div4{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color:hsl(215, 51%, 70%) ;
+}
+
+
+.div2{
+    display: flex;
+    align-items: center;
+    gap: 95px;
+
+}
+
+
+
+hr{
+   border: 1px solid  hsl(215, 32%, 27%) ;
+}
+
+.avatar{
+    width: 40px;
+    border: 2px solid white;
+    border-radius: 50%;
+   
+}
+
+
+.divv{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    
+}
+
+.p4{
+    color: hsl(215, 16%, 52%) ;
+}
+span{
+    color:white;
+}
+
+
