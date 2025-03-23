@@ -1,0 +1,2 @@
+print("merab gaganidze,lazare iakobidze,mate qurcikidze,andria giorgadza ,")
+print("გოაზე საუკეთესო წარმოდგენები შემექმნა გოა ძალიან კარგი აკადემიაა ყველაფერს ძალიან გასაგებად ხსნიან და ძალიან მეგობრული გარემოა.")
