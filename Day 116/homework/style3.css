@@ -1,0 +1,32 @@
+body{
+    background-position-y: top;
+    background-position-x: center;
+    background-image: url("./emm.png");
+}
+.Eminem{
+    color: rgb(0, 153, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: monospace,sans-serif;
+    backdrop-filter: blur(20px);
+}
+
+
+.eminem{
+    color: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: monospace,sans-serif;
+    backdrop-filter: blur(20px);
+}
+
+
+.imgeminem{
+    width: 350px;
+    height: 350px;
+    transform: translateY(50);
+    border-radius: 30px;
+}
+
